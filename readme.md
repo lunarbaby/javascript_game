@@ -1,0 +1,2 @@
+#Web development bootcamp third week assignment
+This week we learned the basics of javascript and our assignment is to create a basic game using javascript. I decided to make a dungeon game where you need to find the treasure room to escape. The player has only three lives and once all lives are gone the game ends.
